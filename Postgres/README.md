@@ -81,7 +81,3 @@ Você pode conectar-se ao PostgreSQL via ferramentas como DBeaver, PgAdmin ou ps
 - **Banco:** `loja_virtual`
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob licença MIT. Sinta-se livre para utilizar e adaptar.
