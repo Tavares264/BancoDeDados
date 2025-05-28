@@ -79,5 +79,3 @@ Você pode conectar-se ao PostgreSQL via ferramentas como DBeaver, PgAdmin ou ps
 - **Usuário:** `postgres`
 - **Senha:** `postgres`
 - **Banco:** `loja_virtual`
-
----
